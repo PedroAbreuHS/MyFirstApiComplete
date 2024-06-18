@@ -1,5 +1,6 @@
 ﻿
 using DevIO.BusinessOrDomain.Interfaces;
+using DevIO.BusinessOrDomain.Services;
 using DevIO.DataOrInfrastructure.Contexto;
 
 namespace DevIO.Api.Configurations
@@ -9,7 +10,7 @@ namespace DevIO.Api.Configurations
         public static IServiceCollection ResolveDependencies(this IServiceCollection services)
         {
             services.AddScoped<MyDbContext>();
-            services.AddScoped<IFornecedorRepository, IFornecedorRepository>();
+            services.AddScoped<IFornecedorService, FornecedorService>();
             services.AddScoped<IFornecedorRepository, IFornecedorRepository>();
             
             return services;
