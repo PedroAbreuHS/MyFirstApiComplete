@@ -11,3 +11,16 @@ C:\Temp\Projetos_Csharp\DesenvolvedorIO\ApiTresCamadas\src\DevIO.BusinessOrDomai
 C:\Temp\Projetos_Csharp\DesenvolvedorIO\ApiTresCamadas\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\refint\DevIO.BusinessOrDomain.dll
 C:\Temp\Projetos_Csharp\DesenvolvedorIO\ApiTresCamadas\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.pdb
 C:\Temp\Projetos_Csharp\DesenvolvedorIO\ApiTresCamadas\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\ref\DevIO.BusinessOrDomain.dll
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\bin\Debug\net8.0\DevIO.BusinessOrDomain.deps.json
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\bin\Debug\net8.0\DevIO.BusinessOrDomain.dll
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\bin\Debug\net8.0\DevIO.BusinessOrDomain.pdb
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.csproj.AssemblyReference.cache
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.AssemblyInfoInputs.cache
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.AssemblyInfo.cs
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.sourcelink.json
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.dll
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\refint\DevIO.BusinessOrDomain.dll
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\DevIO.BusinessOrDomain.pdb
+C:\Temp\Projetos_Csharp\DesenvolvedorIO\MyFirstApiComplete\src\DevIO.BusinessOrDomain\obj\Debug\net8.0\ref\DevIO.BusinessOrDomain.dll

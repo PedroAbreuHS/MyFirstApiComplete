@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevIO.BusinessOrDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bc059e3f6fac64d2d2862a4f10f5d4184415a1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c1bfd9c88a529919253c1e9c7e74f3c7798009")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevIO.BusinessOrDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevIO.BusinessOrDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
