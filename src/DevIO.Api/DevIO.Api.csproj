@@ -16,4 +16,8 @@
     <ProjectReference Include="..\DevIO.DataOrInfrastructure\DevIO.DataOrInfrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imagens\" />
+  </ItemGroup>
+
 </Project>
